@@ -1,0 +1,5 @@
+Name: Timur
+Surname: Baigashev
+Group: IT2-2312
+Student ID: 37540
+Course: DevOps
